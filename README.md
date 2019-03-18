@@ -1,0 +1,2 @@
+# PoetryGenius
+Queries a database of works by classical poets such as Dickinson, Shakespeare, Poe, and more.                              Words can be clicked and immediately defined for the reader to give assistance with understanding                             complex vocabulary and prose. Coded with Javascript JQuery, HTML, and CSS and synced to PoetryAPI found here: http://poetrydb.org/index.html
